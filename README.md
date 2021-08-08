@@ -1,2 +1,8 @@
-# SR_2018
-Codes and data of 10 experiments published in the manuscript 'The Cue-Approach Task as a General Mechanism for Long-Term Non-Reinforced Behavioral Change', Scientific Reports, 2018
+# Computational marker for individual differences in non-reinforced learning
+Codes and data published in the manuscript 'Computational marker for individual differences in non-reinforced learning' (temporary title), 2021
+The data include: 
+* Study 1 - meta-analysis of 29 CAT experiments
+* Study 2 - two novel CAT design experiments (preliminary and a replication experiment) 
+
+ 
+
