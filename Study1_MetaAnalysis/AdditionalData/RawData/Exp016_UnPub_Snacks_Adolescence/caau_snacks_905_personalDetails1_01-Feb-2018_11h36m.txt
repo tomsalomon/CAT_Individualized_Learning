@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_905	1	01-Feb-2018_11h36m	1	20	1	53	39	5
+	117	ndergraduate student in psychobiology	114	101	97	99	116	ion times
+reaction times	110	o	121	101	115	108	97	st tie around 9 pm; i ate chicken and broccoli
+	102	un tasks	

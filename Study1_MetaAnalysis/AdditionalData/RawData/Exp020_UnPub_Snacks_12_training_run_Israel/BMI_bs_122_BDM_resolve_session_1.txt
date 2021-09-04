@@ -1,0 +1,1 @@
+You do not recieve item Tictac.bmp. Random number 2.500000e+00 is higher than your bid 6.666000e-02

@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BMI_bs_40_116	 2	 15-Oct-2015_15h29m	 1	 21	 2	 165	 52	 biotechnology student 2nd year	

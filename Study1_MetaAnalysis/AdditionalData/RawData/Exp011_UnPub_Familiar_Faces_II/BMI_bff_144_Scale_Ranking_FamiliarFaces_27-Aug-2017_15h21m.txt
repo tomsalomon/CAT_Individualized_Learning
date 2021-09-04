@@ -1,0 +1,4 @@
+subjectID	runtrial	onsettime	Name	Bid	RT	StimType	StimTypeInd
+BMI_bff_144	1	8.588401e-02	306_gafni_moshe.jpg	3.104431e+00	3.716775e+00	FamiliarFaces	6
+BMI_bff_144	2	6.590015e+00	302_danon_danny.jpg	2.341309e+00	3.243801e+00	FamiliarFaces	6
+BMI_bff_144	3	1.309713e+01	206_hasson_israel.JPG	1.907532e+00	3.560566e+00	FamiliarFaces	6

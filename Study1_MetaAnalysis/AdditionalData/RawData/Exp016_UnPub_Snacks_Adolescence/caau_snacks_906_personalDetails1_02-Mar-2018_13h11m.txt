@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_906	2	02-Mar-2018_13h11m	1	19	1	53	39	6
+	97	 student for bioengineering	114	101	97	99	116	ion time to snacks that I have different preferences to
+reaction time to snacks that I have different preferences to	73	 tend to think that the asterisks are associated with the snacks that I rated higher	78	111	116	32	115	ure
+7:30, oatmeal, eggs, bacon	7		

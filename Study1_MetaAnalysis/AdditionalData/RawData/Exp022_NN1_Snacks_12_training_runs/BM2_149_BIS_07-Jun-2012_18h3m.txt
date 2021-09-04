@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BM2_149 0 1 0 I plan tasks carefully. 3 2.897699e+00 
+BM2_149 0 2 4.500000e+00 I do things without thinking. 2 2.584865e+00 
+BM2_149 0 3 9 I make up my mind quickly. 2 2.536732e+00 
+BM2_149 0 4 1.350000e+01 I am happy-go-lucky. 4 1.640477e+00 
+BM2_149 0 5 18 I don`t ``pay attention``. 999 999 
+BM2_149 0 6 2.250000e+01 I have ``racing`` thoughts. 1 2.094191e+00 
+BM2_149 0 7 27 I plan trips well ahead of time. 3 1.534591e+00 
+BM2_149 0 8 3.150000e+01 I am self-controlled. 4 1.153511e+00 
+BM2_149 0 9 36 I concentrate easily. 3 1.356876e+00 
+BM2_149 0 10 4.050000e+01 I save regularly. 1 1.500080e+00 
+BM2_149 0 11 45 I ``squirm`` at plays or lectures. 3 1.547842e+00 
+BM2_149 0 12 4.950000e+01 I am a careful thinker. 3 1.065018e+00 
+BM2_149 0 13 54 I plan for job security. 3 1.682116e+00 
+BM2_149 0 14 5.850000e+01 I say things without thinking. 2 1.617947e+00 
+BM2_149 0 15 63 I like to think about complex problems. 4 1.637440e+00 
+BM2_149 0 16 6.750000e+01 I change jobs. 1 1.584283e+00 
+BM2_149 0 17 72 I act ``on impulse``. 3 1.303429e+00 
+BM2_149 0 18 7.650000e+01 I get easily bored when solving thought problems. 1 2.055185e+00 
+BM2_149 0 19 81 I act on the spur of the moment. 2 1.364887e+00 
+BM2_149 0 20 8.550000e+01 I am a steady thinker. 3 1.029411e+00 
+BM2_149 0 21 90 I change where I live. 3 1.597292e+00 
+BM2_149 0 22 9.450000e+01 I buy things on impulse. 1 1.449472e+00 
+BM2_149 0 23 99 I can only think about one problem at a time. 1 2.099635e+00 
+BM2_149 0 24 1.035000e+02 I change hobbies. 3 1.715456e+00 
+BM2_149 0 25 108 I spend or charge more than I earn. 3 2.010595e+00 
+BM2_149 0 26 1.125000e+02 I have outside thoughts when thinking. 2 2.089605e+00 
+BM2_149 0 27 117 I am more interested in the present than the future. 2 2.088884e+00 
+BM2_149 0 28 1.215000e+02 I am restless at lectures or talks. 3 1.256640e+00 
+BM2_149 0 29 126 I like puzzles. 4 1.085186e+00 
+BM2_149 0 30 1.305000e+02 I plan for the future. 2 1.862925e+00 

@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_901	1	04-Feb-2018_13h26m	2	18	2	54	39	1
+È	72	igh School Student (Senior)	77	101	109	111	114	y, responsiveness, hand-eye coordination, and popular snacks
+Memory, responsiveness, hand-eye coordination, and popular snacks	78	o, but I have a very photographic memory	89	101	115	44	32	I clicked accidentally a few times but other than that yes.
+Last night around 12 am. I had a creamscicle shake, and cheesecake.	7	I enjoyed the tasks, the speed one was my favorite. With the **	

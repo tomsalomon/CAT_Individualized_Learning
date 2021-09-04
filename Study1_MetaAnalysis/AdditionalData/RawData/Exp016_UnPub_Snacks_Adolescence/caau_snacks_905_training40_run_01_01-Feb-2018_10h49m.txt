@@ -1,0 +1,9 @@
+subjectID	order	runNum	itemName	onsetTime	shuff_trialType	RT	respInTime	CueTime	response	fixationTime	ladder1	ladder2	bidIndex	BDMtrialIndex	bidValue
+caau_snacks_905	 1	 1	 MrsFields.bmp	 1.095414e+00	 24	 999000	 240	 999000	 999	 2.111551e+00	 750.00	 750.00	 7.00	 29	 1.96	 
+caau_snacks_905	 1	 1	 luckycharms.bmp	 3.094770e+00	 24	 999000	 240	 999000	 999	 4.110868e+00	 750.00	 750.00	 10.00	 56	 1.67	 
+caau_snacks_905	 1	 1	 Ruffles.bmp	 5.094495e+00	 12	 999000	 120	 999000	 999	 6.110671e+00	 750.00	 750.00	 8.00	 40	 1.95	 
+caau_snacks_905	 1	 1	 CornPops.bmp	 7.094159e+00	 22	 1.263261e+03	 2200	 7.502199e+02	 98	 8.109739e+00	 750.00	 700.00	 5.00	 58	 1.98	 
+caau_snacks_905	 1	 1	 Lindt_small.bmp	 1.209364e+01	 12	 999000	 120	 999000	 999	 1.310583e+01	 750.00	 700.00	 6.00	 39	 1.96	 
+caau_snacks_905	 1	 1	 Cheese_PeanutButterCrackers.bmp	 1.409192e+01	 24	 999000	 240	 999000	 999	 1.510789e+01	 750.00	 700.00	 4.00	 41	 2.03	 
+caau_snacks_905	 1	 1	 ApplePie.bmp	 1.609149e+01	 24	 999000	 240	 999000	 999	 1.710727e+01	 750.00	 700.00	 3.00	 36	 2.04	 
+caau_snacks_905	 1	 1	 WheatThins.bmp	 2.109019e+01	 11	 1.263755e+03	 1100	 7.502045e+02	 98	 2.210594e+01	 700.00	 700.00	 9.00	 26	 1.78	 

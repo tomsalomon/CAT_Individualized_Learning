@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_918	2	28-Apr-2018_10h28m	2	16	2	54	39	0
+Ë	83	ophmore in Highschool Student			73	32	116	ried to stare at the middle of the plus sign to see the astrisks when they popped up.
+I feel like I did decent in the tasks at hand. Not great, but not horrible. 80%	73	 ate last night at around 7:45 pm. I ate toast crips with a tomato eggplant spread	8		

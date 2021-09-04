@@ -1,0 +1,1 @@
+subjid order runnum itemname onsettime trialtype RT respInTime Ausdiotime response fixationtime ladder1 ladder2 bidindex itemnameIndex

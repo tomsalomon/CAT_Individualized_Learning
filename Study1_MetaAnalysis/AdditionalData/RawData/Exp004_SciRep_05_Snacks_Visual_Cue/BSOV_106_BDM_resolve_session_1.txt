@@ -1,0 +1,1 @@
+You do not recieve item Loacker.bmp. Random number 5 is higher than your bid 1.622222e+00

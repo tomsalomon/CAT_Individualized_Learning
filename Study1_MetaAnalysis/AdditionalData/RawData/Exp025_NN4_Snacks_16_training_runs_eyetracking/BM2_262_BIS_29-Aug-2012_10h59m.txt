@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BM2_262 0 1 0 I plan tasks carefully. 3 3.657602e+00 
+BM2_262 0 2 4.500000e+00 I do things without thinking. 2 2.345904e+00 
+BM2_262 0 3 9 I make up my mind quickly. 2 2.984579e+00 
+BM2_262 0 4 1.350000e+01 I am happy-go-lucky. 2 2.716893e+00 
+BM2_262 0 5 18 I don`t ``pay attention``. 1 3.454803e+00 
+BM2_262 0 6 2.250000e+01 I have ``racing`` thoughts. 3 2.782698e+00 
+BM2_262 0 7 27 I plan trips well ahead of time. 999 999 
+BM2_262 0 8 3.150000e+01 I am self-controlled. 3 2.636347e+00 
+BM2_262 0 9 36 I concentrate easily. 2 1.972128e+00 
+BM2_262 0 10 4.050000e+01 I save regularly. 4 2.371946e+00 
+BM2_262 0 11 45 I ``squirm`` at plays or lectures. 1 3.625579e+00 
+BM2_262 0 12 4.950000e+01 I am a careful thinker. 3 2.268705e+00 
+BM2_262 0 13 54 I plan for job security. 2 3.561999e+00 
+BM2_262 0 14 5.850000e+01 I say things without thinking. 3 2.194427e+00 
+BM2_262 0 15 63 I like to think about complex problems. 2 3.480285e+00 
+BM2_262 0 16 6.750000e+01 I change jobs. 3 1.900076e+00 
+BM2_262 0 17 72 I act ``on impulse``. 2 3.207316e+00 
+BM2_262 0 18 7.650000e+01 I get easily bored when solving thought problems. 999 999 
+BM2_262 0 19 81 I act on the spur of the moment. 2 3.117028e+00 
+BM2_262 0 20 8.550000e+01 I am a steady thinker. 3 2.597431e+00 
+BM2_262 0 21 90 I change where I live. 3 1.737482e+00 
+BM2_262 0 22 9.450000e+01 I buy things on impulse. 2 1.755723e+00 
+BM2_262 0 23 99 I can only think about one problem at a time. 1 3.571477e+00 
+BM2_262 0 24 1.035000e+02 I change hobbies. 1 3.783195e+00 
+BM2_262 0 25 108 I spend or charge more than I earn. 1 3.253452e+00 
+BM2_262 0 26 1.125000e+02 I have outside thoughts when thinking. 4 2.824919e+00 
+BM2_262 0 27 117 I am more interested in the present than the future. 999 999 
+BM2_262 0 28 1.215000e+02 I am restless at lectures or talks. 2 2.538715e+00 
+BM2_262 0 29 126 I like puzzles. 3 1.447092e+00 
+BM2_262 0 30 1.305000e+02 I plan for the future. 4 1.646852e+00 

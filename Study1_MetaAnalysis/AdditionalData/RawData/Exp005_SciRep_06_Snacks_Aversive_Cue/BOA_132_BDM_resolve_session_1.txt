@@ -1,0 +1,1 @@
+You do not recieve item WerthersOriginal.bmp. Random number 5.000000e-01 is higher than your bid 2.000000e-01

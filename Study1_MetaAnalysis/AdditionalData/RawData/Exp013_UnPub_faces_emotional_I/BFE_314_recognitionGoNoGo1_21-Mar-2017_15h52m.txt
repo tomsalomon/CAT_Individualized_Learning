@@ -1,0 +1,1 @@
+subjectID	 order	 itemIndABC	 runtrial	 isGO?	 subjectAnswer	 onsettime	 Name	 resp_choice	 RT	 bidInd

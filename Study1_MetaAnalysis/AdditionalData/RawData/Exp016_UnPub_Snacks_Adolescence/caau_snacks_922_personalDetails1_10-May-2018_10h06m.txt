@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_922	2	10-May-2018_10h06m	1	20	1	53	39	3
+ 	77	echanical Engineering Student	82	101	97	99	116	ion time, memory, preferences while hungry
+Reaction time, memory, preferences while hungry	78	o	89	101	115	49	58	30 am last night; PB&J sandwich
+	78	ope	

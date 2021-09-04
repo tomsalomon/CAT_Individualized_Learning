@@ -1,0 +1,1 @@
+You do not recieve item ChocolateParaMilk3.bmp. Random number 4 is higher than your bid 3.244444e+00

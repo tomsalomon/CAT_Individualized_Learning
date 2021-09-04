@@ -1,0 +1,5 @@
+subjectID	runtrial	onsettime	Name	Bid	RT
+BMI_bff_115	1	2.275270e-04	502_bush.jpg	6.985840e+00	3.283975e+00
+BMI_bff_115	2	6.519801e+00	505_merkel.jpg	4.934143e+00	3.156258e+00
+BMI_bff_115	3	1.302714e+01	504_kim_jong_un.jpg	2.098328e+00	3.720939e+00
+BMI_bff_115	4	1.953432e+01	508_trudeau.jpg	8.072754e+00	3.941775e+00

@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BMI_bs_40_113	 1	 25-Jun-2015_14h14m	 1	 21	 1	 160	 61	 nursing	

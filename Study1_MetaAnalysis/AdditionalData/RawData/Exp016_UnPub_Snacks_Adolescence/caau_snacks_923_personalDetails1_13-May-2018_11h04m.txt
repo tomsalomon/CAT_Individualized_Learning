@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_923	1	13-May-2018_11h04m	1	15	1	53	39	9
+	115	tudent in highschool	104	111	119	32	109	uch you are willing to pay for a snack
+how much you are willing to pay for a snack	110	o	121	101	115	56	58	30, a cheeseburger and fries
+	110	o	

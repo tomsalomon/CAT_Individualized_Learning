@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	occupation
+bfer_173	1	28-May-2018_12h08m	2	21	1	a student for archeology

@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_910	2	12-Mar-2018_09h59m	1	20	1	53	39	2
+x	115	tudent for HBS	114	101	97	99	116	ion time and memory
+reaction time and memory	110	o	110	111	49	32	65	M, nectarine
+	110	o	

@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_123	1	29-May-2016_13h36m	1	28	1	163	52	studant for economy 
+by preference, and by constinstence  .. 	98	y preference, and by constinstence  .. 	110	111	121	101	115	i eat at 7:00 cofee+bread with honey 
+	110	o, thank u 	

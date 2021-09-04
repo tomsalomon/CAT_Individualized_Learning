@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_928	2	04-Jun-2018_13h47m	2	19	1	54	39	0
+¾	97	 student for Computer Science	70	111	111	100	32	habits of people
+Food habits of people	110	o	121	101	115	89	101	sterday at 11pm (14 hours ago) - ate a pizza
+		110	o	

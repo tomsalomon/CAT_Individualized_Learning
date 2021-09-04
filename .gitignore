@@ -1,7 +1,1 @@
-# Image Stimuli
-*.jpg
-*.bmp
 
-# Sensitive files - payment and subject notes
-*payment* 
-*subject*

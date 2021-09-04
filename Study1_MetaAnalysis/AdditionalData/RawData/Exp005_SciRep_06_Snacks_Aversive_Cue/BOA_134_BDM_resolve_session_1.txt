@@ -1,0 +1,2 @@
+You may buy item BisliGrill.bmp for price 4, your bid was 6.911111e+00
+You do not recieve item Bamba.bmp. Random number 8 is higher than your bid 4.777778e+00

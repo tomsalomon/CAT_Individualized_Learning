@@ -1,0 +1,31 @@
+sinit, scanner, runtrial, question, Response, RT 
+BMS_061, 1, 1, I plan tasks carefully., 2, 9.917354e+00 
+BMS_061, 1, 2, I do things without thinking., 2, 4.657329e+00 
+BMS_061, 1, 3, I make up my mind quickly., 3, 4.570523e+00 
+BMS_061, 1, 4, I am happy-go-lucky., 3, 2.231009e+00 
+BMS_061, 1, 5, I don`t ``pay attention``., 1, 3.758505e+00 
+BMS_061, 1, 6, I have ``racing`` thoughts., 2, 1.833719e+00 
+BMS_061, 1, 7, I plan trips well ahead of time., 3, 2.493289e+00 
+BMS_061, 1, 8, I am self-controlled., 4, 1.514148e+00 
+BMS_061, 1, 9, I concentrate easily., 3, 1.733731e+00 
+BMS_061, 1, 10, I save regularly., 3, 3.008268e+00 
+BMS_061, 1, 11, I ``squirm`` at plays or lectures., 4, 3.938471e+00 
+BMS_061, 1, 12, I am a careful thinker., 4, 1.820975e+00 
+BMS_061, 1, 13, I plan for job security., 2, 2.467203e+00 
+BMS_061, 1, 14, I say things without thinking., 2, 1.952417e+00 
+BMS_061, 1, 15, I like to think about complex problems., 4, 3.190307e+00 
+BMS_061, 1, 16, I change jobs., 1, 1.836156e+00 
+BMS_061, 1, 17, I act ``on impulse``., 2, 1.969690e+00 
+BMS_061, 1, 18, I get easily bored when solving thought problems., 1, 3.858923e+00 
+BMS_061, 1, 19, I act on the spur of the moment., 1, 3.026092e+00 
+BMS_061, 1, 20, I am a steady thinker., 4, 2.397548e+00 
+BMS_061, 1, 21, I change where I live., 1, 1.903466e+00 
+BMS_061, 1, 22, I buy things on impulse., 1, 1.316310e+00 
+BMS_061, 1, 23, I can only think about one problem at a time., 1, 2.035639e+00 
+BMS_061, 1, 24, I change hobbies., 1, 2.856169e+00 
+BMS_061, 1, 25, I spend or charge more than I earn., 2, 2.832382e+00 
+BMS_061, 1, 26, I have outside thoughts when thinking., 3, 3.195923e+00 
+BMS_061, 1, 27, I am more interested in the present than the future., 4, 2.655768e+00 
+BMS_061, 1, 28, I am restless at lectures or talks., 2, 2.802981e+00 
+BMS_061, 1, 29, I like puzzles., 3, 1.399846e+00 
+BMS_061, 1, 30, I plan for the future., 3, 1.483749e+00 

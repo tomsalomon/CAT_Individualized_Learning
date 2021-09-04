@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_915	1	14-Apr-2018_10h36m	1	17	1	53	39	5
+ 	115	tudent-high school	105	116	32	105	110	vestigates memory, how fast you can react and how much you like the snacks.
+it investigates memory, how fast you can react and how much you like the snacks.	105	 saw some repeating snacks with a astrix but i didnt use any other strategies.	105	32	107	105	110	d of feel like i did ok on the experiment i do know that i missed a few of them. 
+The last time i ate was round 6pm last night. I ate chicken and rice with vegetables. 	7	no	

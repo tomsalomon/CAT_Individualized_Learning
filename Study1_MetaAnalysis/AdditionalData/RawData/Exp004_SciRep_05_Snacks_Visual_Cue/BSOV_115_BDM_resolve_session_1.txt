@@ -1,0 +1,1 @@
+You do not recieve item Cheetos.bmp. Random number 5 is higher than your bid 2.422222e+00

@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BMS_035_TS1 1 1 0 I plan tasks carefully. 999 999 
+BMS_035_TS1 1 2 4.500000e+00 I do things without thinking. 2 2.251415e+00 
+BMS_035_TS1 1 3 9 I make up my mind quickly. 1 1.785680e+00 
+BMS_035_TS1 1 4 1.350000e+01 I am happy-go-lucky. 3 1.564094e+00 
+BMS_035_TS1 1 5 18 I don`t ``pay attention``. 3 1.306744e+00 
+BMS_035_TS1 1 6 2.250000e+01 I have ``racing`` thoughts. 3 1.275099e+00 
+BMS_035_TS1 1 7 27 I plan trips well ahead of time. 2 1.338755e+00 
+BMS_035_TS1 1 8 3.150000e+01 I am self-controlled. 3 1.127141e+00 
+BMS_035_TS1 1 9 36 I concentrate easily. 2 1.270826e+00 
+BMS_035_TS1 1 10 4.050000e+01 I save regularly. 3 8.952194e-01 
+BMS_035_TS1 1 11 45 I ``squirm`` at plays or lectures. 4 1.478958e+00 
+BMS_035_TS1 1 12 4.950000e+01 I am a careful thinker. 3 9.243120e-01 
+BMS_035_TS1 1 13 54 I plan for job security. 4 1.086010e+00 
+BMS_035_TS1 1 14 5.850000e+01 I say things without thinking. 4 1.262350e+00 
+BMS_035_TS1 1 15 63 I like to think about complex problems. 3 1.451058e+00 
+BMS_035_TS1 1 16 6.750000e+01 I change jobs. 3 1.307448e+00 
+BMS_035_TS1 1 17 72 I act ``on impulse``. 2 1.587026e+00 
+BMS_035_TS1 1 18 7.650000e+01 I get easily bored when solving thought problems. 3 1.544547e+00 
+BMS_035_TS1 1 19 81 I act on the spur of the moment. 2 1.581172e+00 
+BMS_035_TS1 1 20 8.550000e+01 I am a steady thinker. 3 1.211562e+00 
+BMS_035_TS1 1 21 90 I change where I live. 2 1.615219e+00 
+BMS_035_TS1 1 22 9.450000e+01 I buy things on impulse. 3 1.210676e+00 
+BMS_035_TS1 1 23 99 I can only think about one problem at a time. 3 1.634288e+00 
+BMS_035_TS1 1 24 1.035000e+02 I change hobbies. 2 1.489663e+00 
+BMS_035_TS1 1 25 108 I spend or charge more than I earn. 3 1.215358e+00 
+BMS_035_TS1 1 26 1.125000e+02 I have outside thoughts when thinking. 3 1.165771e+00 
+BMS_035_TS1 1 27 117 I am more interested in the present than the future. 2 1.874399e+00 
+BMS_035_TS1 1 28 1.215000e+02 I am restless at lectures or talks. 4 1.337779e+00 
+BMS_035_TS1 1 29 126 I like puzzles. 2 1.526498e+00 
+BMS_035_TS1 1 30 1.305000e+02 I plan for the future. 4 1.165840e+00 

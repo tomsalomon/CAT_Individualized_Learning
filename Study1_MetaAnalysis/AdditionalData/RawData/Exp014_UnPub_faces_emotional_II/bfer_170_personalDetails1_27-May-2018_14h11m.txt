@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	occupation
+bfer_170	2	27-May-2018_14h11m	2	26	1	student fo computer science

@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_109	1	22-Mar-2016_11h32m	1	25	2	165	64	a student for psychology
+prefference to different flavors and flavor combinations	112	refference to different flavors and flavor combinations	121	101	115	121	101	s
+yesterday at 2100 a salad	8	no	

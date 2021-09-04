@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+bmem_snacks_129	1	21-Mar-2017_17h07m	1	25	1	151	47	student for teather	4	10

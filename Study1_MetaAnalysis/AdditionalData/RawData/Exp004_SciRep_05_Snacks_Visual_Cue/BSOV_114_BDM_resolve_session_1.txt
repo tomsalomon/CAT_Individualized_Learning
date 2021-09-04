@@ -1,0 +1,1 @@
+You do not recieve item BisliGrill.bmp. Random number 4 is higher than your bid 3.355556e+00

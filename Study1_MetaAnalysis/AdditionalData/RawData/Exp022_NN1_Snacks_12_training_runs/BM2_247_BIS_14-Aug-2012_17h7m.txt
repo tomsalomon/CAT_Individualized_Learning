@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BM2_247 0 1 0 I plan tasks carefully. 999 999 
+BM2_247 0 2 4.500000e+00 I do things without thinking. 999 999 
+BM2_247 0 3 9 I make up my mind quickly. 4 4.340831e-01 
+BM2_247 0 4 1.350000e+01 I am happy-go-lucky. 999 999 
+BM2_247 0 5 18 I don`t ``pay attention``. 3 3.410742e-01 
+BM2_247 0 6 2.250000e+01 I have ``racing`` thoughts. 3 2.596799e+00 
+BM2_247 0 7 27 I plan trips well ahead of time. 4 3.604570e+00 
+BM2_247 0 8 3.150000e+01 I am self-controlled. 3 2.030972e+00 
+BM2_247 0 9 36 I concentrate easily. 3 2.210840e+00 
+BM2_247 0 10 4.050000e+01 I save regularly. 3 2.362733e+00 
+BM2_247 0 11 45 I ``squirm`` at plays or lectures. 1 3.382298e+00 
+BM2_247 0 12 4.950000e+01 I am a careful thinker. 3 2.113021e+00 
+BM2_247 0 13 54 I plan for job security. 3 1.880782e+00 
+BM2_247 0 14 5.850000e+01 I say things without thinking. 2 2.359988e+00 
+BM2_247 0 15 63 I like to think about complex problems. 3 3.070247e+00 
+BM2_247 0 16 6.750000e+01 I change jobs. 2 2.558273e+00 
+BM2_247 0 17 72 I act ``on impulse``. 2 2.430098e+00 
+BM2_247 0 18 7.650000e+01 I get easily bored when solving thought problems. 2 3.130001e+00 
+BM2_247 0 19 81 I act on the spur of the moment. 2 1.700375e+00 
+BM2_247 0 20 8.550000e+01 I am a steady thinker. 3 2.860149e+00 
+BM2_247 0 21 90 I change where I live. 999 999 
+BM2_247 0 22 9.450000e+01 I buy things on impulse. 2 2.365218e+00 
+BM2_247 0 23 99 I can only think about one problem at a time. 999 999 
+BM2_247 0 24 1.035000e+02 I change hobbies. 3 1.780181e+00 
+BM2_247 0 25 108 I spend or charge more than I earn. 1 2.662057e+00 
+BM2_247 0 26 1.125000e+02 I have outside thoughts when thinking. 2 2.623756e+00 
+BM2_247 0 27 117 I am more interested in the present than the future. 2 3.167583e+00 
+BM2_247 0 28 1.215000e+02 I am restless at lectures or talks. 2 1.978366e+00 
+BM2_247 0 29 126 I like puzzles. 2 1.309731e+00 
+BM2_247 0 30 1.305000e+02 I plan for the future. 3 1.301010e+00 

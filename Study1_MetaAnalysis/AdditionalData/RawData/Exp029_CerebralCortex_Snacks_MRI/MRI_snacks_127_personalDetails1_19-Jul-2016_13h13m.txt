@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+MRI_snacks_127	1	19-Jul-2016_13h13m	2	31	1	184	110	student marine science	15	5

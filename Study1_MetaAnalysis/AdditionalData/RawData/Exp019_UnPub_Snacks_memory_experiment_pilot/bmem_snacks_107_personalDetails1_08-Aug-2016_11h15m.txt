@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+bmem_snacks_107	1	08-Aug-2016_11h15m	1	23	1	147	47	student of music	3.25 hours	1

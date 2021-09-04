@@ -1,0 +1,1 @@
+You do not recieve item Tortit.bmp. Random number 10 is higher than your bid 2.711111e+00

@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_113	1	28-Mar-2016_15h43m	1	25	1	159	45	student of Biology
+preferences and knowlege of snacks	112	references and knowlege of snacks	110	111	121	101	115	10:30, an apple and an energy bar
+	58	)	

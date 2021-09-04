@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_927	1	12-Jun-2018_17h31m	2	19	1	54	39	2
+ª	83	tudent for psychology	65	98	105	108	105	ty to recognize patterns
+Ability to recognize patterns	121	es	121	101	115	49	50	 pm, some crackers and a bagel
+		110	o	

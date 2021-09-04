@@ -1,0 +1,7 @@
+subjectID	 order	 itemIndABC	 runtrial	 isOld?	 subjectAnswer	 onsettime	 Name	 resp_choice	 RT	 bidInd	 isBeep?
+N_202	 2	 17	 1	 1	 1	 3.105798e-02	 9050.jpg	 i	 1.373115e+00	 16	 1	 
+N_202	 2	 55	 2	 0	 1	 2.480908e+00	 9905.jpg	 i	 1.195252e+00	 0	 0	 
+N_202	 2	 18	 3	 1	 1	 4.747595e+00	 9120.jpg	 i	 6.565175e-01	 11	 1	 
+N_202	 2	 56	 4	 0	 0	 6.480915e+00	 9941.jpg	 u	 5.872142e-01	 0	 0	 
+N_202	 2	 54	 5	 0	 0	 8.147566e+00	 9429.jpg	 u	 6.805493e-01	 0	 0	 
+N_202	 2	 2	 6	 1	 1	 9.914205e+00	 1002.jpg	 i	 6.099393e-01	 48	 1	 

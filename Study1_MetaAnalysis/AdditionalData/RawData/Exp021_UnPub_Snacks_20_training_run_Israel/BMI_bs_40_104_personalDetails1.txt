@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BMI_bs_40_104	 2	 26-May-2015_15h04m	 1	 20	 2	 170	 56	 student of law and management 2nd year	

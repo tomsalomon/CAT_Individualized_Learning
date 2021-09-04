@@ -1,0 +1,1 @@
+You do not recieve item SkittlesFruits2.bmp. Random number 8 is higher than your bid 4.822222e+00
