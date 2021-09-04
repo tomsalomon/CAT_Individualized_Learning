@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_917	1	08-Apr-2018_09h54m	1	17	1	53	39	8
+{	115	tudent in highschool	105	116	32	105	110	vestigates how a person chooses between types of snacks
+it investigates how a person chooses between types of snacks	97	t first no, but then i got hungry over time so i was choosing the things i was wanting	105	110	32	116	97	sk 4 i accidentally chose the wrong side about 3 times, but yes overall i think i succeeded
+about 6pm, ice cream	6	nope	

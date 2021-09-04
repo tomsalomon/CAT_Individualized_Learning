@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_125	2	31-May-2016_11h34m	1	25	1	165	63	student of gioinformstics
+if i make the same disigions all the time, what infloence on them	105	f i make the same disigions all the time, what infloence on them	73	32	116	114	121	 to remmber what came with +10, also i was really hungry so I try to pike something fast
+can i fail? its an experiment, not exam	50	3:00 yesterday, pasta with meatbals	8	110	111	112	

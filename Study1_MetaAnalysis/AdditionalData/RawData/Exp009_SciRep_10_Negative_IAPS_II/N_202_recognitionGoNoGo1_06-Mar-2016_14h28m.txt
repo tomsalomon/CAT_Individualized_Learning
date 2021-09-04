@@ -1,0 +1,5 @@
+subjectID	order	stimName	itemIndABC	bidInd	runtrial	isOld?	subjectAnswerIsOld	isBeep?	subjectAnswerIsBeep	onsettime	resp_choice	RT
+N_202	2	9905.jpg	55	0	1	0	1	0	1	3.296773e-02	i	1.194529e+00
+N_202	2	9050.jpg	17	16	2	1	1	1	1	2.299572e+00	i	8.479660e-01
+N_202	2	1002.jpg	2	48	3	1	1	1	0	4.232934e+00	u	1.106599e+00
+N_202	2	9120.jpg	18	11	4	1	1	1	0	6.416226e+00	u	1.067300e+00

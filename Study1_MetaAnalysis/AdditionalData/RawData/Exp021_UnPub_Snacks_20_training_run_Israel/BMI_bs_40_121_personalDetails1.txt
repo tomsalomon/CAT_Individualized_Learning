@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BMI_bs_40_121	 1	 28-Oct-2015_16h51m	 1	 24	 1	 165	 58	 psychology and linguistics	

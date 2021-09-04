@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BM2_270 0 1 0 I plan tasks carefully. 2 3.193886e+00 
+BM2_270 0 2 4.500000e+00 I do things without thinking. 2 2.484189e+00 
+BM2_270 0 3 9 I make up my mind quickly. 2 1.745033e+00 
+BM2_270 0 4 1.350000e+01 I am happy-go-lucky. 3 2.066474e+00 
+BM2_270 0 5 18 I don`t ``pay attention``. 1 2.906296e+00 
+BM2_270 0 6 2.250000e+01 I have ``racing`` thoughts. 999 999 
+BM2_270 0 7 27 I plan trips well ahead of time. 2 1.799989e+00 
+BM2_270 0 8 3.150000e+01 I am self-controlled. 4 1.423726e+00 
+BM2_270 0 9 36 I concentrate easily. 3 1.447548e+00 
+BM2_270 0 10 4.050000e+01 I save regularly. 4 1.476830e+00 
+BM2_270 0 11 45 I ``squirm`` at plays or lectures. 1 1.909835e+00 
+BM2_270 0 12 4.950000e+01 I am a careful thinker. 4 1.389600e+00 
+BM2_270 0 13 54 I plan for job security. 3 1.840665e+00 
+BM2_270 0 14 5.850000e+01 I say things without thinking. 1 1.547949e+00 
+BM2_270 0 15 63 I like to think about complex problems. 4 1.603741e+00 
+BM2_270 0 16 6.750000e+01 I change jobs. 2 1.722850e+00 
+BM2_270 0 17 72 I act ``on impulse``. 2 1.896233e+00 
+BM2_270 0 18 7.650000e+01 I get easily bored when solving thought problems. 1 2.433201e+00 
+BM2_270 0 19 81 I act on the spur of the moment. 2 2.225021e+00 
+BM2_270 0 20 8.550000e+01 I am a steady thinker. 2 1.764816e+00 
+BM2_270 0 21 90 I change where I live. 1 2.023305e+00 
+BM2_270 0 22 9.450000e+01 I buy things on impulse. 1 1.191133e+00 
+BM2_270 0 23 99 I can only think about one problem at a time. 2 2.214217e+00 
+BM2_270 0 24 1.035000e+02 I change hobbies. 2 1.885066e+00 
+BM2_270 0 25 108 I spend or charge more than I earn. 1 2.044559e+00 
+BM2_270 0 26 1.125000e+02 I have outside thoughts when thinking. 4 1.788383e+00 
+BM2_270 0 27 117 I am more interested in the present than the future. 2 2.728972e+00 
+BM2_270 0 28 1.215000e+02 I am restless at lectures or talks. 1 1.842615e+00 
+BM2_270 0 29 126 I like puzzles. 4 1.530484e+00 
+BM2_270 0 30 1.305000e+02 I plan for the future. 4 1.849574e+00 

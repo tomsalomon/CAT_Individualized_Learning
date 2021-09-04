@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_105	1	15-Mar-2016_15h32m	1	22	1	167	50	computer science and management student
+snacks preferences	115	nacks preferences	105	32	107	110	101	w which snack has sign
+yes	53	.5 hours ago, sandwich	9	45	

@@ -1,0 +1,31 @@
+subjid scanner runtrial onsettime question Response RT 
+BM2_996 0 1 0 I plan tasks carefully. 3 6.162823e+00 
+BM2_996 0 2 4.500000e+00 I do things without thinking. 2 2.952314e+00 
+BM2_996 0 3 9 I make up my mind quickly. 2 4.312487e+00 
+BM2_996 0 4 1.350000e+01 I am happy-go-lucky. 4 1.953544e+00 
+BM2_996 0 5 18 I don`t ``pay attention``. 1 1.946606e+00 
+BM2_996 0 6 2.250000e+01 I have ``racing`` thoughts. 2 1.867642e+00 
+BM2_996 0 7 27 I plan trips well ahead of time. 4 2.552090e+00 
+BM2_996 0 8 3.150000e+01 I am self-controlled. 4 2.104630e+00 
+BM2_996 0 9 36 I concentrate easily. 4 1.435536e+00 
+BM2_996 0 10 4.050000e+01 I save regularly. 3 1.641667e+00 
+BM2_996 0 11 45 I ``squirm`` at plays or lectures. 1 4.383651e+00 
+BM2_996 0 12 4.950000e+01 I am a careful thinker. 3 2.229305e+00 
+BM2_996 0 13 54 I plan for job security. 3 3.219459e+00 
+BM2_996 0 14 5.850000e+01 I say things without thinking. 2 1.920760e+00 
+BM2_996 0 15 63 I like to think about complex problems. 4 3.355157e+00 
+BM2_996 0 16 6.750000e+01 I change jobs. 2 2.907017e+00 
+BM2_996 0 17 72 I act ``on impulse``. 2 1.837236e+00 
+BM2_996 0 18 7.650000e+01 I get easily bored when solving thought problems. 2 5.195044e+00 
+BM2_996 0 19 81 I act on the spur of the moment. 2 2.184033e+00 
+BM2_996 0 20 8.550000e+01 I am a steady thinker. 4 3.503548e+00 
+BM2_996 0 21 90 I change where I live. 2 3.017281e+00 
+BM2_996 0 22 9.450000e+01 I buy things on impulse. 2 2.054745e+00 
+BM2_996 0 23 99 I can only think about one problem at a time. 3 5.499683e+00 
+BM2_996 0 24 1.035000e+02 I change hobbies. 1 4.204399e+00 
+BM2_996 0 25 108 I spend or charge more than I earn. 1 4.153560e+00 
+BM2_996 0 26 1.125000e+02 I have outside thoughts when thinking. 2 3.760744e+00 
+BM2_996 0 27 117 I am more interested in the present than the future. 3 5.096261e+00 
+BM2_996 0 28 1.215000e+02 I am restless at lectures or talks. 1 4.561319e+00 
+BM2_996 0 29 126 I like puzzles. 3 1.872144e+00 
+BM2_996 0 30 1.305000e+02 I plan for the future. 4 2.492607e+00 

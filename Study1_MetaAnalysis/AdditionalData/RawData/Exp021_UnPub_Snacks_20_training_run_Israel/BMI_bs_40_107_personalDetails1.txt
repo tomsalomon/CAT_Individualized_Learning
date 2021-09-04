@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BMI_bs_40_107	 1	 10-Jun-2015_11h05m	 1	 26	 2	 163	 60	 economics student	

@@ -1,0 +1,1 @@
+You do not recieve item BisliPizza3.bmp. Random number 5.500000e+00 is higher than your bid 3.821840e+00

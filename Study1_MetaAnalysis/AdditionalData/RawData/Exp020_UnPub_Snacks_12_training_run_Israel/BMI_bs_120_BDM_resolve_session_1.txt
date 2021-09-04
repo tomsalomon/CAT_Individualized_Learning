@@ -1,0 +1,1 @@
+You do not recieve item ChocolateParaMarir2.bmp. Random number 10 is higher than your bid 6.666000e-02

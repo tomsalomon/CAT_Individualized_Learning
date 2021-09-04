@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+MRI_snacks_125	1	02-Jun-2016_14h21m	1	21	1	163	73	a student for mechanical engineering	last night	7

@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_122	2	25-May-2016_13h39m	1	24	1	164	60	a student for engeering
+if the lack of snacks effects om my dicisions	105	f the lack of snacks effects om my dicisions	110	111	105	32	104	ope so. i tried my best
+7:30- braid with humus and one orange fruit	9	no	

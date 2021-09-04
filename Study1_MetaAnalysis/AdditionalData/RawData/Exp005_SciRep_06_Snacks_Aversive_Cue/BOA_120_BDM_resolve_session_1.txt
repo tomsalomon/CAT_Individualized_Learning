@@ -1,0 +1,1 @@
+You do not recieve item Bounty.bmp. Random number 8 is higher than your bid 5.822222e+00

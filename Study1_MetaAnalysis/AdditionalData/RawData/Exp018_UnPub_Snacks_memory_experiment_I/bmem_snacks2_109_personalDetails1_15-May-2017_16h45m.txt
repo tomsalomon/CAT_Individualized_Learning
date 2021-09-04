@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+bmem_snacks2_109	1	15-May-2017_16h45m	2	24	1	180	80	a student for islam 	0.5	7

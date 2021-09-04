@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_908	2	04-Mar-2018_12h27m	1	17	1	53	39	0
+	104	igh school senior	101	102	102	101	99	t of sleep on hunger/weight
+effect of sleep on hunger/weight	110	o	121	101	115	97	114	ound 7:30 I drank a hot chocolate made with soy milk
+		

@@ -1,0 +1,1 @@
+You do not recieve item SkittlesSour4.bmp. Random number 3 is higher than your bid 2.222222e-02

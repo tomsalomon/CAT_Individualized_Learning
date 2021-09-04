@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_919	1	30-Apr-2018_08h04m	1	20	1	53	39	3
+	97	 student for Political Science	104	111	119	32	108	ikely you are to value food based on how hungry you are
+how likely you are to value food based on how hungry you are	73	 just went with what I was craving	89	101	115	76	97	st night at 6 pm and I ate Chinese food
+	78	A	

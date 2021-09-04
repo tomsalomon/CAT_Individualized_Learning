@@ -1,0 +1,1 @@
+You do not recieve item BisliOnion.bmp. Random number 9.500000e+00 is higher than your bid 4.866667e+00

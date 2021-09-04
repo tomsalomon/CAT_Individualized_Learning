@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	occupation
+bfer_101	1	26-Mar-2018_11h04m	2	22	1	East Asian studies

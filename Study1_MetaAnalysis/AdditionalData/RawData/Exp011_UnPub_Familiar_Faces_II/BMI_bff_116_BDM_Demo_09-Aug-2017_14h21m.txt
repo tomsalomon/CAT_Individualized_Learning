@@ -1,0 +1,5 @@
+subjectID	runtrial	onsettime	Name	Bid	RT
+BMI_bff_116	1	2.263772e-03	507_thatcher.jpg	4.963318e+00	3.644175e+00
+BMI_bff_116	2	6.520687e+00	501_assad.jpg	6.294556e-01	3.252772e+00
+BMI_bff_116	3	1.302793e+01	506_obama.jpg	9.122986e+00	3.809556e+00
+BMI_bff_116	4	1.953515e+01	508_trudeau.jpg	9.102661e+00	3.222345e+00

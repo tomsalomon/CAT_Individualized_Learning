@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+bmem_snacks_130	2	21-Mar-2017_18h40m	2	25	1	182	78	Bioinformatics programmer	4	6

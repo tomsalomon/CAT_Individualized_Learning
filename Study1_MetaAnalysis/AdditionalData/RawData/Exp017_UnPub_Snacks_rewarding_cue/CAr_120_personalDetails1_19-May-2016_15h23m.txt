@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_120	2	19-May-2016_15h23m	2	25	1	180	82	a student for Engeniring
+preferences	112	references	121	101	115	121	101	s
+5 h ago egg	2		

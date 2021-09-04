@@ -1,0 +1,4 @@
+Trial	StimName	Liking	RT
+1	angry.jpg	6.46666666667	5494
+2	sad.jpg	7.44444444444	5689
+3	anxious.jpg	9.37777777778	2834

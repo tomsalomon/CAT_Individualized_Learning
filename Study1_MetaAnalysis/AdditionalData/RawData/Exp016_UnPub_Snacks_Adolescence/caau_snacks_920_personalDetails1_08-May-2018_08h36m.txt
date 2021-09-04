@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_920	2	08-May-2018_08h36m	1	19	1	53	39	3
+t	115	tudent for Environmental Science	114	101	102	108	101	xes
+reflexes	110	o, I just went with the flow	73	32	116	104	105	nk I improved
+7pm yesterday, I ate pizza with salad	7	NA	

@@ -1,0 +1,2 @@
+You may buy item Kitkat.bmp for price 3.00, your bid was 6.42
+You do not recieve item Kitkat.bmp. Random number 9.00 is higher than your bid 6.42

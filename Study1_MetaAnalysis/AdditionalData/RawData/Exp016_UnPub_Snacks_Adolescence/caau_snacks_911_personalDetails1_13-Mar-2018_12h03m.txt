@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_911	1	13-Mar-2018_12h03m	2	20	1	53	39	7
+	97	 student for Physiological Science	65	116	116	101	110	tion towards food that one likes vs dislikes
+Attention towards food that one likes vs dislikes	78	o	121	101	115	50	97	m, tangerine
+	110	ope	

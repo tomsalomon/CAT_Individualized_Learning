@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BM2_154 0 1 0 I plan tasks carefully. 2 2.450025e+00 
+BM2_154 0 2 4.500000e+00 I do things without thinking. 2 3.449850e+00 
+BM2_154 0 3 9 I make up my mind quickly. 1 2.089058e+00 
+BM2_154 0 4 1.350000e+01 I am happy-go-lucky. 3 1.568878e+00 
+BM2_154 0 5 18 I don`t ``pay attention``. 2 1.542367e+00 
+BM2_154 0 6 2.250000e+01 I have ``racing`` thoughts. 3 1.831156e+00 
+BM2_154 0 7 27 I plan trips well ahead of time. 2 1.622922e+00 
+BM2_154 0 8 3.150000e+01 I am self-controlled. 3 1.626420e+00 
+BM2_154 0 9 36 I concentrate easily. 2 1.365209e+00 
+BM2_154 0 10 4.050000e+01 I save regularly. 3 2.029089e+00 
+BM2_154 0 11 45 I ``squirm`` at plays or lectures. 2 1.892164e+00 
+BM2_154 0 12 4.950000e+01 I am a careful thinker. 4 1.282651e+00 
+BM2_154 0 13 54 I plan for job security. 2 2.498512e+00 
+BM2_154 0 14 5.850000e+01 I say things without thinking. 2 1.698273e+00 
+BM2_154 0 15 63 I like to think about complex problems. 4 1.662287e+00 
+BM2_154 0 16 6.750000e+01 I change jobs. 2 1.344615e+00 
+BM2_154 0 17 72 I act ``on impulse``. 2 1.488433e+00 
+BM2_154 0 18 7.650000e+01 I get easily bored when solving thought problems. 2 2.626657e+00 
+BM2_154 0 19 81 I act on the spur of the moment. 2 2.102267e+00 
+BM2_154 0 20 8.550000e+01 I am a steady thinker. 3 1.709862e+00 
+BM2_154 0 21 90 I change where I live. 4 1.293687e+00 
+BM2_154 0 22 9.450000e+01 I buy things on impulse. 2 1.370756e+00 
+BM2_154 0 23 99 I can only think about one problem at a time. 2 2.835908e+00 
+BM2_154 0 24 1.035000e+02 I change hobbies. 1 1.907730e+00 
+BM2_154 0 25 108 I spend or charge more than I earn. 1 3.926594e+00 
+BM2_154 0 26 1.125000e+02 I have outside thoughts when thinking. 2 2.048210e+00 
+BM2_154 0 27 117 I am more interested in the present than the future. 3 3.617219e+00 
+BM2_154 0 28 1.215000e+02 I am restless at lectures or talks. 2 1.491512e+00 
+BM2_154 0 29 126 I like puzzles. 4 1.005948e+00 
+BM2_154 0 30 1.305000e+02 I plan for the future. 3 1.487322e+00 

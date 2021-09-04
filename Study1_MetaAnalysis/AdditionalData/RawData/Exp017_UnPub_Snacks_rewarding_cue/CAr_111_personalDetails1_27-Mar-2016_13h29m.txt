@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_111	1	27-Mar-2016_13h29m	1	23	1	162	55	student of psychology 
+conection betwen perpernce and memory	99	onection betwen perpernce and memory	121	101	115	121	101	s
+7am, cornflaks	7	no	

@@ -1,0 +1,31 @@
+sinit scanner runtrial onsettime question Response RT 
+BM2_156 0 1 0 I plan tasks carefully. 4 2.017468e+00 
+BM2_156 0 2 4.500000e+00 I do things without thinking. 1 2.171609e+00 
+BM2_156 0 3 9 I make up my mind quickly. 3 1.983500e+00 
+BM2_156 0 4 1.350000e+01 I am happy-go-lucky. 3 1.953943e+00 
+BM2_156 0 5 18 I don`t ``pay attention``. 2 1.961720e+00 
+BM2_156 0 6 2.250000e+01 I have ``racing`` thoughts. 4 1.371838e+00 
+BM2_156 0 7 27 I plan trips well ahead of time. 4 9.836147e-01 
+BM2_156 0 8 3.150000e+01 I am self-controlled. 4 8.232051e-01 
+BM2_156 0 9 36 I concentrate easily. 4 1.271030e+00 
+BM2_156 0 10 4.050000e+01 I save regularly. 4 1.179835e+00 
+BM2_156 0 11 45 I ``squirm`` at plays or lectures. 3 2.277254e+00 
+BM2_156 0 12 4.950000e+01 I am a careful thinker. 4 9.970831e-01 
+BM2_156 0 13 54 I plan for job security. 4 1.039902e+00 
+BM2_156 0 14 5.850000e+01 I say things without thinking. 2 1.379425e+00 
+BM2_156 0 15 63 I like to think about complex problems. 4 2.202569e+00 
+BM2_156 0 16 6.750000e+01 I change jobs. 1 1.610390e+00 
+BM2_156 0 17 72 I act ``on impulse``. 1 1.303462e+00 
+BM2_156 0 18 7.650000e+01 I get easily bored when solving thought problems. 2 3.392681e+00 
+BM2_156 0 19 81 I act on the spur of the moment. 1 1.240452e+00 
+BM2_156 0 20 8.550000e+01 I am a steady thinker. 4 9.476317e-01 
+BM2_156 0 21 90 I change where I live. 1 2.622791e+00 
+BM2_156 0 22 9.450000e+01 I buy things on impulse. 2 1.750555e+00 
+BM2_156 0 23 99 I can only think about one problem at a time. 2 3.181762e+00 
+BM2_156 0 24 1.035000e+02 I change hobbies. 1 1.547797e+00 
+BM2_156 0 25 108 I spend or charge more than I earn. 1 1.556046e+00 
+BM2_156 0 26 1.125000e+02 I have outside thoughts when thinking. 4 2.747876e+00 
+BM2_156 0 27 117 I am more interested in the present than the future. 2 2.879713e+00 
+BM2_156 0 28 1.215000e+02 I am restless at lectures or talks. 2 1.954037e+00 
+BM2_156 0 29 126 I like puzzles. 4 9.299826e-01 
+BM2_156 0 30 1.305000e+02 I plan for the future. 4 9.130679e-01 

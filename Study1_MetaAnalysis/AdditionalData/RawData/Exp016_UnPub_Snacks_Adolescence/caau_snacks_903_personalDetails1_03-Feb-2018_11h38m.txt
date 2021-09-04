@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_903	1	03-Feb-2018_11h38m	2	18	1	54	39	0
+Ü	97	 student for english	72	111	119	32	104	unger affects adolescent awareness
+How hunger affects adolescent awareness	78	o	89	101	115	46	54	 pm yesterday, Chow Mein w/ Teryaki & Rice
+		

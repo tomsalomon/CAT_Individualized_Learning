@@ -1,0 +1,1 @@
+You do not recieve item Twist.bmp. Random number 3.500000e+00 is higher than your bid 2.822222e+00

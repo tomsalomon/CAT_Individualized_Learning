@@ -1,0 +1,1 @@
+You do not recieve item DoritosSourSpicy.bmp. Random number 8.500000e+00 is higher than your bid 1.333333e-01

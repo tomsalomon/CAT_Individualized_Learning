@@ -1,0 +1,4 @@
+subjectID	order	date	"gender(1-female, 2-male)"	age	"dominant hand (1-right, 2-left)"	height	weight	occupation
+caau_snacks_909	1	12-May-2018_12h18m	2	14	1	53	39	 student in middle school
+	65	 student in middle school	72	111	119	32	112	eople react to things like food when they are hungry
+How people react to things like food when they are hungry	70	"or part 2, I remembered which snacks had the cue and which ones didn't."	121	101	115	65	116	" around 12:15 AM, sour patch kids"

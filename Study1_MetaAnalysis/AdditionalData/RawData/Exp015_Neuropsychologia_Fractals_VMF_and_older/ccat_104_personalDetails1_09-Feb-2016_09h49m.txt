@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	occupation
+ccat_104	2	09-Feb-2016_09h49m	1	57	1	conseillere en vente

@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation	last food	hunger level
+bmem_snacks_113	1	11-Jan-2017_09h48m	1	23	1	163	52	student for biology and languages	11	6

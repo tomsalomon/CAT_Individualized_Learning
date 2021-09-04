@@ -1,0 +1,1 @@
+You do not recieve item CrunchBisquitBrown3.bmp. Random number 8.500000e+00 is higher than your bid 6.511111e+00

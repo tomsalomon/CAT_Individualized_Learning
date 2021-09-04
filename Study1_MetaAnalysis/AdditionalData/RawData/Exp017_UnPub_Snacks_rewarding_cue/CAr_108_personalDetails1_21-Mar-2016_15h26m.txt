@@ -1,0 +1,4 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+CAr_108	2	21-Mar-2016_15h26m	2	25	1	171	68	student
+how starve relates to a will to buy a product	104	ow starve relates to a will to buy a product	121	101	115	121	101	s
+at 10.00 o'clock- sandwitch	8		

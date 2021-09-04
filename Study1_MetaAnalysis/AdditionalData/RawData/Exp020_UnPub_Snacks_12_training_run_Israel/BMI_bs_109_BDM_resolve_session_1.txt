@@ -1,0 +1,1 @@
+You do not recieve item BabyDoll.bmp. Random number 10 is higher than your bid 5.555000e-01

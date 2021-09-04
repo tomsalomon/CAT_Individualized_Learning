@@ -1,0 +1,1 @@
+You do not recieve item Popco.bmp. Random number 3.500000e+00 is higher than your bid 1.600000e+00

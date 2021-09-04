@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BMI_bs_40_102	 2	 21-May-2015_15h04m	 1	 27	 1	 170	 55	 student for communication and labor studies	

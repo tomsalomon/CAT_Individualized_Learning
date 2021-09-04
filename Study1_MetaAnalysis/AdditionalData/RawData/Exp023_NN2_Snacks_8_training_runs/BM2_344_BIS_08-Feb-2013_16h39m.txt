@@ -1,0 +1,31 @@
+subjid scanner runtrial onsettime question Response RT 
+BM2_344 0 1 0 I plan tasks carefully. 4 2.249514e+00 
+BM2_344 0 2 4.500000e+00 I do things without thinking. 2 1.870720e+00 
+BM2_344 0 3 9 I make up my mind quickly. 1 1.403735e+00 
+BM2_344 0 4 1.350000e+01 I am happy-go-lucky. 4 1.533009e+00 
+BM2_344 0 5 18 I don`t ``pay attention``. 2 2.416472e+00 
+BM2_344 0 6 2.250000e+01 I have ``racing`` thoughts. 4 1.798641e+00 
+BM2_344 0 7 27 I plan trips well ahead of time. 4 1.311335e+00 
+BM2_344 0 8 3.150000e+01 I am self-controlled. 3 2.172798e+00 
+BM2_344 0 9 36 I concentrate easily. 3 2.981016e+00 
+BM2_344 0 10 4.050000e+01 I save regularly. 3 2.594852e+00 
+BM2_344 0 11 45 I ``squirm`` at plays or lectures. 1 4.257152e+00 
+BM2_344 0 12 4.950000e+01 I am a careful thinker. 4 1.903812e+00 
+BM2_344 0 13 54 I plan for job security. 4 1.787484e+00 
+BM2_344 0 14 5.850000e+01 I say things without thinking. 2 2.148184e+00 
+BM2_344 0 15 63 I like to think about complex problems. 4 2.965847e+00 
+BM2_344 0 16 6.750000e+01 I change jobs. 1 2.468325e+00 
+BM2_344 0 17 72 I act ``on impulse``. 2 1.983676e+00 
+BM2_344 0 18 7.650000e+01 I get easily bored when solving thought problems. 2 4.863785e+00 
+BM2_344 0 19 81 I act on the spur of the moment. 2 1.884631e+00 
+BM2_344 0 20 8.550000e+01 I am a steady thinker. 3 2.457038e+00 
+BM2_344 0 21 90 I change where I live. 1 2.365067e+00 
+BM2_344 0 22 9.450000e+01 I buy things on impulse. 2 2.493408e+00 
+BM2_344 0 23 99 I can only think about one problem at a time. 3 4.415996e+00 
+BM2_344 0 24 1.035000e+02 I change hobbies. 4 2.344211e+00 
+BM2_344 0 25 108 I spend or charge more than I earn. 1 2.561254e+00 
+BM2_344 0 26 1.125000e+02 I have outside thoughts when thinking. 4 2.032990e+00 
+BM2_344 0 27 117 I am more interested in the present than the future. 1 8.871688e+00 
+BM2_344 0 28 1.215000e+02 I am restless at lectures or talks. 2 2.472556e+00 
+BM2_344 0 29 126 I like puzzles. 4 1.555894e+00 
+BM2_344 0 30 1.305000e+02 I plan for the future. 4 8.625070e-01 

@@ -1,0 +1,5 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+caau_snacks_924	2	14-May-2018_08h03m	1	19	1	53	39	4
+£	97	 student for psychology	87	104	101	116	104	er we are willing to spend more money on the snacks we like
+Whether we are willing to spend more money on the snacks we like	78	o	89	101	115	89	101	sterday at 6:00 PM and I ate mexican meat with rice and beans
+	110	o	

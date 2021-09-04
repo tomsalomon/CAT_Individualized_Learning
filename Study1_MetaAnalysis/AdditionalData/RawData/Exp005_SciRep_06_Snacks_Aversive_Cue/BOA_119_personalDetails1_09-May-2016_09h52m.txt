@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	height	weight	occupation
+BOA_119	1	09-May-2016_09h52m	2	24	1	176	68	student for economics
