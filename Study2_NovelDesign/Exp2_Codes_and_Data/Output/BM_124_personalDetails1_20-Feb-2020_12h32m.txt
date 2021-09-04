@@ -1,0 +1,2 @@
+subjectID	order	date	gender(1-female, 2-male)	age	dominant hand (1-right, 2-left)	occupation
+BM_124	4	20-Feb-2020_12h32m	1	27	1	Art history
